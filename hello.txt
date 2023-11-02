@@ -1,1 +1,3 @@
 yenthappo ith katha
+
+learning git and git hub
